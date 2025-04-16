@@ -8,6 +8,7 @@ It includes features like student form entry, data management, Excel/PDF export,
 ## 🔗 Project Repository
 
 👉 [GitHub Repo](https://github.com/Hemanth-361/AMS)
+👉[Live Demo](https://hemanth-361.github.io/AMS/)
 
 ---
 
